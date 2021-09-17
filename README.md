@@ -7,13 +7,15 @@ https://xsdoge.com
 
 备用域名:
 
+https://xs.dog
+
 https://pkq.pw
 
-https://xSpeedyDoge.com
+https://speedydoge.net
 
 永久域名:
 
-https://xs.dog
+https://xsdoge.com
 
 https://xSpeedyDoge.com
 
