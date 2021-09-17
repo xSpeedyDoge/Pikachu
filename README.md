@@ -6,10 +6,12 @@ https://xsdoge.com
 
 备用域名:
 https://pkq.pw
+
 https://xSpeedyDoge.com
 
 永久域名:
 https://xs.dog
+
 https://xSpeedyDoge.com
 
 以上方法均失效时, 可联系管理员邮箱
