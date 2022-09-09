@@ -3,11 +3,12 @@
 
 最新域名:
 
-https://www.pkqcloudx.com
+https://www.pkqcloud0.com
 
 备用域名:
 
 https://xsdoge.com
+
 https://speedydoge.net
 
 永久域名:
