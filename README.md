@@ -1,15 +1,13 @@
-# 最新域名
-这个网站用于显示最新的域名, 请收藏
+# xsDoge | PKQ 信息更新
+本项目用于发布最新信息, 请收藏网页或星标
+
+## 信息更新
+
+### 域名
 
 最新域名:
 
-https://www.pkqcloud0.com
-
-备用域名:
-
-https://xsdoge.com
-
-https://speedydoge.net
+https://www.pkqcloudx.com
 
 永久域名:
 
@@ -19,5 +17,14 @@ https://pkqcloud.com
 
 https://xSpeedyDoge.com
 
-以上方法均失效时, 可联系管理员邮箱
-xsdoge@cloudnotification.net
+#### 以上方法均失效时, 可联系管理员邮箱
+邮箱:
+dogecare@protonmail.com
+
+---
+---
+
+## 公告 | Announcement
+
+[服务升级]
+### **1. 谷歌频繁验证问题 已经修复**
